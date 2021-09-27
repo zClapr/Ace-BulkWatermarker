@@ -1,0 +1,10 @@
+This program has been compiled through the PyInstaller library.
+AND CAN ONLY BE USED ON MAC
+
+This compiled program should only be used by the Ace Media Team, if a different logo wishes to be applied, the source code should be modified or add a different image with the name "logo2.png", replacing the current one in the exact same path. 
+
+To use:
+1. Download & decompile BulkWatermarker.zip
+2. Under the folder made, double click "run" and choose the folder containing all images. No other file should be inside though a safe-check is implemented. 
+3. Let the computer do all your work! (Be aware that logo2.png under the folder "/BulkWatermarker/dist/main" is being applied to every bottom right corner of the images)
+4. A folder named "output" should be generated under the folder "/BulkWatermarker/" with all the watermarked pictures, any errors encountered will be shown in the terminal log. 
